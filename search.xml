@@ -3,14 +3,35 @@
   <entry>
     <title>CaixuKun 8.1 2.0</title>
     <url>//post/CaixuKun-8-1.html</url>
-    <content><![CDATA[<p>在2023-01-10 00:00:00，up主 <a href="space.bilibili.com/1014355041">沙雕幺零三</a> 发布了 <a href="www.bilibili.com/video/BV1WK41117Vb">Caixukun 8.1 2.0</a> 。此系统是 <a href="www.bilibili.com/video/BV1dW4y1T7B5">Caixukun8.1 1.0</a> (原作者[洛天依广播电视总台])的</p>
-<hr>
-<p>下载方式：</p>
-<ol>
+    <content><![CDATA[<p>在2023-01-10 00:00:00，Bilibili up主 <a href="space.bilibili.com/1014355041">沙雕幺零三</a> 发布了 <a href="www.bilibili.com/video/BV1WK41117Vb">Caixukun 8.1 2.0</a> 。此系统是 <a href="https://www.bilibili.com/video/BV1dW4y1T7B5">Caixukun8.1 1.0</a> 的2.0版本 (废话，不然怎么能叫Caixukun 8.1 2.0)， 原作者是 <a href="https://space.bilibili.com/1158238771">洛天依广播电视总台</a>和 <a href="space.bilibili.com/1014355041">沙雕幺零三</a>。</p>
+<h3 id="下载方式"><a href="#下载方式" class="headerlink" title="下载方式"></a>下载方式</h3><ol>
 <li><p><a href="https://www.123pan.com/s/z8VKVv-peKl3">123云盘</a></p>
 </li>
 <li><p><a href="space.dingtalk.com/s/gwHPAAAAAlhu4VICzkgDH54D2gAgMTNiMmMzZTFlMDA0NDRmNWI0">钉钉云盘</a> 提取码:KWbU</p>
 </li>
+<li><p>向 <a href="space.bilibili.com/1014355041">沙雕幺零三</a> 私信获得</p>
+</li>
+</ol>
+<hr>
+<h3 id="系统简介"><a href="#系统简介" class="headerlink" title="系统简介"></a>系统简介</h3><ol>
+<li><p>安装方式<br>  使用 Caixukun PE安装。</p>
+<ul>
+<li><p>打开桌面上的 “Windows安装器” ，可以看到 “Windows” 已经被更改成了 “Caixukun” (不过上面没改)</p>
+</li>
+<li><p>选择 Caixukun 镜像</p>
+</li>
+<li><p>打开 DiskGenius，创建ESP&#x2F;MSR分区和系统磁盘，将ESP分区分配盘符，在引导驱动器的位置选择刚才分配的盘符</p>
+</li>
+<li><p>选择安装驱动器的位置</p>
+</li>
+<li><p>在 “调整” 选项中，您可以看到 “Windows” 已经被改成了 “Caixukun”</p>
+</li>
+<li><p>单击 “安装”</p>
+</li>
+</ul>
+<p> <img src="https://s2.loli.net/2023/09/05/ObBlR1mtiI3phTD.png" alt="我家giegie"></p>
+</li>
+<li></li>
 </ol>
 ]]></content>
       <categories>
@@ -41,13 +62,13 @@
 ]]></content>
   </entry>
   <entry>
-    <title>categories</title>
-    <url>/categories/index.html</url>
+    <title>tags</title>
+    <url>/tags/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>tags</title>
-    <url>/tags/index.html</url>
+    <title>categories</title>
+    <url>/categories/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
